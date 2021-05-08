@@ -25,7 +25,8 @@ Practice React Framer Motion Animation
 * [x] Animate shared layout
 
 ## Banner animation
-* []
-* []
+* [x] Text animation
+* [x] Conditional animations
+
 
 
