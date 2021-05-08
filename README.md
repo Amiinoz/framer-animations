@@ -2,8 +2,7 @@
 
  Framer Motion Animation
 
-
-<!-- ![example-site](example-site.gif) -->
+https://frameranimation.netlify.app/
 
 ## Objectives
 Practice React Framer Motion Animation
